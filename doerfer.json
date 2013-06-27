@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.21138,
+                    50.894489,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Schloß Tonndorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.143442,
+                    52.689285,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Ökodorf Sieben Linden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.699271,
+                    47.567074,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Likatien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.545557,
+                    51.976852,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kommune Buchhagen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.023312,
+                    52.586403,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lebensgarten Steyerberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.16402,
+                    53.49509,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tollense  Lebenspark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.835223,
+                    50.923866,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LebensGut-Cobstädt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.528394,
+                    52.156357,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Hofgemeinschaft Lübnitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.28544,
+                    51.274021,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lebenstraumgemeinschaft Jahnishausen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.601907,
+                    51.285439,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kommune Niederkaufungen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.561471,
+                    50.900124,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "KoWa e. V."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.19431,
+                    53.661709,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Allmende Wulfsdorf e.V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.06549,
+                    50.490921,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Projekt Gaia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.95473,
+                    48.331848,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lebensprojekt Meiseneck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.212991,
+                    51.060333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Kooperative Schloß Gersdorf GmbH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.89749,
+                    47.85429,
+                    0
+                ]
+            },
+            "properties": {
+                "name": " Schäfereigenossenschaft Finkhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.20645,
+                    49.126179,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Tempelhof"
+            }
+        }
+    ]
+}
