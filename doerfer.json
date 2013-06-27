@@ -236,7 +236,8 @@
                 ]
             },
             "properties": {
-                "name": "Tempelhof"
+                "name": "Tempelhof",
+                "href": "http://www.schloss-tempelhof.de/"
             }
         }
     ]
