@@ -12,7 +12,8 @@
                 ]
             },
             "properties": {
-                "name": "Schloß Tonndorf"
+                "name": "Schloß Tonndorf",
+                "description": "http://schloss-tonndorf.de/"
             }
         },
         {
@@ -40,7 +41,8 @@
                 ]
             },
             "properties": {
-                "name": "Likatien"
+                "name": "Likatien",
+                "description": "87629 Füssen http://www.likatien.de/likatien/impressum.php"
             }
         },
         {
@@ -54,7 +56,8 @@
                 ]
             },
             "properties": {
-                "name": "Kommune Buchhagen"
+                "name": "Kommune Buchhagen",
+                "description": "37619 Bodenwerder  http://www.kommune-buchhagen.de/index.htm "
             }
         },
         {
@@ -68,7 +71,8 @@
                 ]
             },
             "properties": {
-                "name": "Lebensgarten Steyerberg"
+                "name": "Lebensgarten Steyerberg",
+                "description": "31595 Steyerberg http://www.lebensgarten-steyerberg.de/index.php "
             }
         },
         {
@@ -82,7 +86,8 @@
                 ]
             },
             "properties": {
-                "name": "Tollense  Lebenspark"
+                "name": "Tollense  Lebenspark",
+                "description": "17217 Penzlin  http://www.tollense-lebenspark.de/impressum "
             }
         },
         {
@@ -96,7 +101,8 @@
                 ]
             },
             "properties": {
-                "name": "LebensGut-Cobstädt"
+                "name": "LebensGut-Cobstädt",
+                "description": "http://www.lebensgut-cobstaedt.de/pages/de/impressum.php"
             }
         },
         {
@@ -110,7 +116,8 @@
                 ]
             },
             "properties": {
-                "name": "Hofgemeinschaft Lübnitz"
+                "name": "Hofgemeinschaft Lübnitz",
+                "description": "14806 Bad Belzig  http://www.xn--hofgemeinschaft-lbnitz-8lc.de/die-gemeinschaft.html "
             }
         },
         {
@@ -124,7 +131,8 @@
                 ]
             },
             "properties": {
-                "name": "Lebenstraumgemeinschaft Jahnishausen"
+                "name": "Lebenstraumgemeinschaft Jahnishausen",
+                "description": "01594 Riesa  http://www.ltgj.de/kontakt "
             }
         },
         {
@@ -138,7 +146,8 @@
                 ]
             },
             "properties": {
-                "name": "Kommune Niederkaufungen"
+                "name": "Kommune Niederkaufungen",
+                "description": "34260 Kaufungen  http://www.kommune-niederkaufungen.de/ "
             }
         },
         {
@@ -152,7 +161,8 @@
                 ]
             },
             "properties": {
-                "name": "KoWa e. V."
+                "name": "KoWa e. V.",
+                "description": " 99880 Waltershausen http://www.kommune-kowa.de/impressumkontakt/]]"
             }
         },
         {
@@ -166,7 +176,8 @@
                 ]
             },
             "properties": {
-                "name": "Allmende Wulfsdorf e.V"
+                "name": "Allmende Wulfsdorf e.V",
+                "description": "22926 Ahrensburg"
             }
         },
         {
@@ -180,7 +191,8 @@
                 ]
             },
             "properties": {
-                "name": "Projekt Gaia"
+                "name": "Projekt Gaia",
+                "description": "65627 Elbtal  http://www.lebensdorf-gaia.de/index.php?option=com_frontpage&Itemid=45 "
             }
         },
         {
@@ -194,7 +206,8 @@
                 ]
             },
             "properties": {
-                "name": "Lebensprojekt Meiseneck"
+                "name": "Lebensprojekt Meiseneck",
+                "description": "84367 Reut http://meiseneck.ethicway.de/index.php/en/lebensprojekt-meiseneck "
             }
         },
         {
@@ -208,7 +221,8 @@
                 ]
             },
             "properties": {
-                "name": "Kooperative Schloß Gersdorf GmbH"
+                "name": "Kooperative Schloß Gersdorf GmbH",
+                "description": "09661 Striegistal  http://schloss-gersdorf.org/kontakt/ "
             }
         },
         {
@@ -222,7 +236,8 @@
                 ]
             },
             "properties": {
-                "name": " Schäfereigenossenschaft Finkhof"
+                "name": " Schäfereigenossenschaft Finkhof",
+                "description": "88410 Bad Wurzach  http://www.finkhof.de/start/ueber-uns/wo-sind-wir.html "
             }
         },
         {
@@ -237,7 +252,7 @@
             },
             "properties": {
                 "name": "Tempelhof",
-                "href": "http://www.schloss-tempelhof.de/"
+                "description": " 74594 Kreßberg http://www.schloss-tempelhof.de"
             }
         }
     ]
