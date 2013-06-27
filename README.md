@@ -1,4 +1,4 @@
-alternative-lebensgemeinschaften
+Alternative Lebensgemeinschaften
 ================================
 
-Alternative Lebensgemeinschaften in Deutschland im geo json format
+Alternative Lebensgemeinschaften in Deutschland im geo json format.
