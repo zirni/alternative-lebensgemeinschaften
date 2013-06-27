@@ -269,6 +269,21 @@
                 "name": "ZEGG Forschungs- und Bildungszentrum GmbH",
                 "description": "Rosa-Luxemburg-Str. 89, 14806 Bad Belzig http://www.zegg.de"
             }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.499959,
+                    11.535751,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Osho Stadt",
+                "description": "Zschachenmühle 1, 07368 Remptendorf OT Gahma http://www.oshostadt.de"
+            }
         }
     ]
 }
